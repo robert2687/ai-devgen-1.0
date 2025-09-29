@@ -1,0 +1,5 @@
+{
+  "name": "AI DevGen Studio",
+  "description": "An AI-powered development environment that allows you to generate and refine web applications through natural language prompts. Features a live preview, code editor, dark/light modes, and options to import code from files or GitHub.",
+  "requestFramePermissions": []
+}
